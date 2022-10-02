@@ -7,8 +7,7 @@
 ## Социальные и профессиональные сети
 <p align="left"> 
   <a href="#">
-    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
-     <p>az.frontend.developer@gmail.com</p>
+    <img src="svg/social/email_me.svg" alt="email_me az.frontend.developer@gmail.com" style="vertical-align:top; margin:6px 4px">
   </a>  
   <a href="#">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
