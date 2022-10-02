@@ -2,15 +2,15 @@
  
 - 👋 Привет, Я Азат!
 - 👀 Меня интересует ...
-- 🌱 В настоящее время я учусь ...
+- 🌱 В настоящее время я учу ...
 - 💞 ️ Я хочу сотрудничать над ...
 - 📫 Как со мной связаться ...
 
 ## Социальные и профессиональные сети
 <p align="left"> 
-  <a href="#" style="display: inline-flex; color: #fff;">
+  <a href="#" style="display:inline-flex; color:#fff;">
     <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
-    <span style="margin: 0 10px;"> az.frontend.developer@gmail.com</span>
+    <span style="margin:0 10px;"> az.frontend.developer@gmail.com</span>
   </a>
  
   <a href="#">
