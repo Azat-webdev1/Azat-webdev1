@@ -49,20 +49,23 @@
 
 ### Услуги
 <p align="left">
+   <a href="#">
+    <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a> 
   <a href="#">
     <img src="svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
   </a> 
    <a href="#">
     <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
   </a> 
-  <a href="#">
-    <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-  </a> 
 </p>
 
 
 ### Инструменты
 <p align="left">
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a>
   <a href="#">
     <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -73,10 +76,6 @@
   <a href="#">
     <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
   </a> 
-
-  <a href="#">
-    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a>
 </p>
 
 --- 
@@ -91,10 +90,7 @@
 ---
 
 ## Социальные и профессиональные сети
-<p align="left">
-  <a href="#">
-    <img src="svg/social/angellist.svg" alt="angellist" style="vertical-align:top; margin:6px 4px">
-  </a>  
+<p align="left"> 
   <a href="#">
     <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>  
