@@ -56,7 +56,7 @@
     <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
   </a>  
    <a href="#">
-    <img src="" alt="javascript" style="vertical-align:top; margin:6px 4px">
+    <img src="png/dev/languages/JavaSript-logo" alt="javascript" style="vertical-align:top; margin:6px 4px ; height: 90px;">
   </a>  
 </p>
 
