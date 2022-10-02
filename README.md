@@ -8,9 +8,9 @@
 
 ## Социальные и профессиональные сети
 <p align="left"> 
-  <a href="#">
+  <a href="#" style="display: inline-flex; color: #fff;">
     <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
-    <span style="text-align: center;"> az.frontend.developer@gmail.com</span>
+    <span style="margin: 0 10px;"> az.frontend.developer@gmail.com</span>
   </a>
  
   <a href="#">
