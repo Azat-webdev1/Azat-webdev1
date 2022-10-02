@@ -10,7 +10,7 @@
 <p align="left"> 
   <a href="#">
     <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
-    az.frontend.developer@gmail.com
+    <p style="text-align: center;"> az.frontend.developer@gmail.com</p>
   </a>
  
   <a href="#">
