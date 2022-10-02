@@ -1,4 +1,4 @@
-<img src="help/top10lan.jpg"  alt="top10lan" style="margin:6px width: 100%;  height: 200px;">
+<img src="help/top10lan.jpg"  alt="top10lan" style="vertical-align:top; margin:6px width: 100%;">
  
 - 👋 Привет, Я Азат!
 - 👀 Меня интересует ...
