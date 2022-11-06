@@ -10,7 +10,6 @@
 <p align="left"> 
   <a href="#" style="display:inline-flex;">
     <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
-    <span style="margin:0 10px; padding:5px 0px 0px 0px;"> az.frontend.developer@gmail.com</span>
   </a>
  
   <a href="#">
