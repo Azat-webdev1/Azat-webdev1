@@ -8,30 +8,15 @@
 
 ## Социальные и профессиональные сети
 <p align="left"> 
-  <a href="#" style="display:inline-flex;">
-    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
-  </a>
- 
   <a href="#">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
-
   <a href="#">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
+  </a>   
+  <a href="https://t.me/azat_dev_js">
     <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
-  </a>    
-  <a href="#">
-    <img src="svg/social/viber.svg" alt="viber" style="vertical-align:top; margin:6px 4px">
-  </a>    
-  <a href="#">
-    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>     
 </p>
 
 
